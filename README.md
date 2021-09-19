@@ -13,9 +13,11 @@ This is a part of test tasks for internship candidates at neurotrim Systems
 ### Additional feature
 
 - If any field is missing, it will show with the error message.
-- If email address or phone number is invalid, it will show with the error message.
+- If the email address or phone number is invalid, it will show with the error message.
+- After submitting all the information, you will see the "Submitted Successfully!" pop-up message.
 
-___
+---
 
 ![img](https://i.imgur.com/kFvYVtim.jpg)
+
 ![img invalid](https://i.imgur.com/StCS4iIm.jpg)

@@ -12,7 +12,8 @@ window.addEventListener(
           if (form.checkValidity() === false) {
             event.preventDefault();
             event.stopPropagation();
-          } else {
+          } else if ($("#validationCustom03").val) {
+            alert("Submitted Successfully!");
           }
           form.classList.add("was-validated");
         },
