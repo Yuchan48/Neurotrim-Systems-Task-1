@@ -1,6 +1,7 @@
-# 2 step-user form
+# 2 Step User form
 
-User form created with HTML5, CSS, Bootstrap 5, JavaScript
+User form created with HTML5, CSS, Bootstrap 5, and JavaScript.
+
 This is a part of test tasks for internship candidates at neurotrim Systems
 
 ### Requirement
@@ -10,7 +11,7 @@ This is a part of test tasks for internship candidates at neurotrim Systems
 - The user sees two new fields (two old ones are hidden): email and phone number
 - The user fills in the fields and clicks "Submit"
 
-### Additional feature
+### Additional features
 
 - If any field is missing, it will show with the error message.
 - If the email address or phone number is invalid, it will show with the error message.
@@ -18,6 +19,10 @@ This is a part of test tasks for internship candidates at neurotrim Systems
 
 ---
 
+#### First Screen
+
 ![img](https://i.imgur.com/kFvYVtim.jpg)
+
+#### Error
 
 ![img invalid](https://i.imgur.com/StCS4iIm.jpg)
