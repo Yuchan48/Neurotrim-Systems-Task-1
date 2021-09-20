@@ -3,7 +3,7 @@ window.addEventListener(
   "load",
   function () {
     let forms = document.getElementsByClassName("needs-validation");
-    
+
     Array.prototype.filter.call(forms, function (form) {
       form.addEventListener(
         "submit",
