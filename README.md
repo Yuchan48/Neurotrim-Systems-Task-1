@@ -19,7 +19,7 @@ This is a part of test tasks for internship candidates at neurotrim Systems
 
 ---
 
-#### First Screen
+#### Main screen 
 
 ![img](https://i.imgur.com/kFvYVtim.jpg)
 
